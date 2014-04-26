@@ -1,0 +1,7 @@
+name: Paintball
+main: com.explosivecleric.paintball.Paintball
+version: 1.0
+softdepend: [TagAPI]
+authors: [russjr08, JordanFitz, EditingGold]
+description: >
+             A Bukkit plugin for paintball!
